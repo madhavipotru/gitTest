@@ -1,6 +1,6 @@
-function add(){
+function sub(){
     let a,b=5;
-    let c=a+b;
+    let c=a-b;
     return c;
 
 }
