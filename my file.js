@@ -1,4 +1,4 @@
-function sub(){
+function sub1(){
     let a,b=5;
     let c=a-b;
     return c;
